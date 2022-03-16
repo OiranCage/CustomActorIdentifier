@@ -1,0 +1,20 @@
+{
+    "name": "oirancage/custom-actor-identifier",
+    "type": "library",
+    "require-dev": {
+        "pocketmine/pocketmine-mp": "^4.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "famima65536"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
